@@ -1,0 +1,11 @@
+CNN FROM SCRATCH - EVALUATION RESULTS
+--------------------------------------------------
+Testing images: 1600
+Correct predictions: 1444
+Testing accuracy: 90.25%
+
+Classes:
+- glioma
+- meningioma
+- notumor
+- pituitary
