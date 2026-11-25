@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python cache (root and src/)
+__pycache__/
+*.py[cod]
+
+# Dataset (too large, download separately)
+dataset/
+
+# Trained weights (over GitHub's 25 MB upload limit)
+*.npz
+
+# Utility script (dataset image counter)
+number.py
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+kaggle.json
