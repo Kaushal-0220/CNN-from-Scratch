@@ -1,0 +1,5 @@
+numpy
+cupy-cuda13x[ctk]
+opencv-python
+kagglehub
+matplotlib
